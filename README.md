@@ -1,5 +1,7 @@
 # f(x) — epsilon–delta
 
+[사이트 열기](https://claudy-sky.github.io/epsilon-delta-ocean/) · [배포 기록](https://github.com/claudy-sky/epsilon-delta-ocean/actions)
+
 수학Ⅲ 교과서와 수업 자료를 바탕으로 함수의 극한을 설명하는 세 페이지 수학 블로그입니다.
 
 - 첫 화면: 군청색 수면, 클릭·드래그에 반응하는 파동과 포말, 스크롤에 따른 분자 장면.
